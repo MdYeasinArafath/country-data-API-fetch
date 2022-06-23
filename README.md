@@ -1,5 +1,5 @@
 # country-data-API-fetch
-####country data API fetch(country name, population, flag)
+country data API fetch(country name, population, flag)
 <br>
 home-task / project
 <br>
