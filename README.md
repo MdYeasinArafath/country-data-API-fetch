@@ -10,3 +10,5 @@ API link:https://restcountries.com/v3.1/all
 Task: Fetch API & show data in webpage.
 <br>
 Project status: Done.
+<br>
+taking time to load.
